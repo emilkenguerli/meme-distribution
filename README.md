@@ -1,5 +1,5 @@
-# meme-distribution
-Privacy Policy for custom GPT - Meme Distribution
+# Privacy Policy for custom GPT - Meme Distribution
+
 1. <b>Introduction</b></br>
 We are committed to protecting the privacy of our users. This privacy policy explains our practices regarding data collection, use, and disclosure.
 
